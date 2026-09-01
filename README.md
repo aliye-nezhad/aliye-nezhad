@@ -8,6 +8,7 @@ Economics researcher with experience in empirical research, econometric methods,
 - Stata: econometric analysis, panel-data methods, regression workflows, and diagnostic testing
 - R: data cleaning, data manipulation, visualization, statistical analysis, and econometric applications
 - Dynare via MATLAB: DSGE model development, calibration, and simulation
+- LaTeX: academic writing, mathematical notation, and research document preparation
 
 ## Selected Research Projects
 
