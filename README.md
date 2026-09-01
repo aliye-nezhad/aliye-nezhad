@@ -11,6 +11,11 @@ Economics researcher with experience in empirical research, econometric methods,
 
 ## Selected Research Projects
 
-- Structural DSGE modeling of credit allocation, money creation, and macro-financial dynamics
-- Empirical analysis using macroeconomic and financial datasets
-- Panel-data econometric analysis
+### Empirical Macroeconomic Analysis Using Python
+Python-based empirical workflow for retrieving, cleaning, validating, and analyzing macroeconomic data. Includes regression estimation, robust inference, diagnostic testing, and automated generation of tables and figures.
+
+### Panel-Data Econometric Analysis Using Stata
+Stata-based empirical workflow involving data preparation, panel-data estimation, model specification, robustness checks, and econometric diagnostics.
+
+### Speculative Credit Diversion and Macro-Financial Dynamics
+Structural DSGE model developed using Dynare via MATLAB to study how credit allocation between productive and speculative activities affects bank lending, money creation, inflation, and output dynamics. Includes banking, credit allocation, monetary, and real-sector mechanisms with calibration and simulation analysis.
