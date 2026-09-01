@@ -14,7 +14,3 @@ Economics researcher with experience in empirical research, econometric methods,
 - Structural DSGE modeling of credit allocation, money creation, and macro-financial dynamics
 - Empirical analysis using macroeconomic and financial datasets
 - Panel-data econometric analysis
-
-## Links
-
-- LinkedIn: https://linkedin.com/in/aliye-nezhad
