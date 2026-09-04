@@ -4,11 +4,11 @@ Economics researcher with experience in empirical research, econometric methods,
 
 ## Technical Skills
 
-- Python: data analysis, statistical modeling, visualization, and reproducible research workflows
-- Stata: econometric analysis, panel-data methods, regression workflows, and diagnostic testing
+- Python: reproducible empirical workflows, macroeconomic data acquisition, data cleaning, regression analysis, statistical testing, diagnostics, and automated research outputs
+- Stata: panel-data econometrics, fixed-effects and random-effects models, specification tests, robustness analysis, diagnostic testing, and reproducible workflows
+- Dynare via MATLAB: structural DSGE modeling, calibration, steady-state analysis, impulse-response analysis, and macro-financial simulations
 - R: data cleaning, data manipulation, visualization, statistical analysis, and econometric applications
-- Dynare via MATLAB: DSGE model development, calibration, and simulation
-- LaTeX: academic writing, mathematical notation, and research document preparation
+- LaTeX: academic writing, mathematical notation, tables, figures, and research document preparation
 
 ## Selected Research Projects
 
