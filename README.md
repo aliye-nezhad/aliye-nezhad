@@ -12,11 +12,14 @@ Economics researcher with experience in empirical research, econometric methods,
 
 ## Selected Research Projects
 
-### Empirical Macroeconomic Analysis Using Python
-Python-based empirical workflow for retrieving, cleaning, validating, and analyzing macroeconomic data. Includes regression estimation, robust inference, diagnostic testing, and automated generation of tables and figures.
+### Macroeconomic Time-Series Analysis and Reproducible Empirical Workflow Using Python
 
-### Panel-Data Econometric Analysis Using Stata
-Stata-based empirical workflow involving data preparation, panel-data estimation, model specification, robustness checks, and econometric diagnostics.
+Python-based empirical workflow for retrieving and validating macroeconomic data from FRED, estimating regression models, conducting robust inference and diagnostic tests, and automatically generating research outputs including tables and figures.
 
-### Speculative Credit Diversion and Macro-Financial Dynamics
-Structural DSGE model developed using Dynare via MATLAB to study how credit allocation between productive and speculative activities affects bank lending, money creation, inflation, and output dynamics. Includes banking, credit allocation, monetary, and real-sector mechanisms with calibration and simulation analysis.
+### Cross-Country Panel Data Analysis Using Stata
+
+Stata-based panel-data workflow implementing data preparation, fixed-effects and random-effects estimation, model specification tests, robustness analysis, econometric diagnostics, and reproducible output generation.
+
+### Speculative Credit Diversion, Bank Money Creation, and Macro-Financial Dynamics
+
+Structural DSGE model developed using Dynare via MATLAB to study how credit allocation between productive and speculative activities affects bank lending, money creation, inflation, and output dynamics. The model incorporates banking, monetary, credit-allocation, and real-sector mechanisms with calibration, sensitivity analysis, and impulse-response simulations.
