@@ -4,8 +4,6 @@ Economics researcher with experience in empirical research, econometric methods,
 
 ## Technical Skills
 
-## Technical Skills
-
 - Python: reproducible empirical workflows, macroeconomic data acquisition, data cleaning and validation, regression analysis, statistical diagnostics, and automated research outputs
 - Stata: panel-data econometrics, fixed-effects and random-effects models, specification tests, robustness analysis, diagnostic testing, and reproducible empirical workflows
 - Dynare/MATLAB: structural DSGE modeling, model calibration, steady-state analysis, stability checks, impulse-response analysis, and macroeconomic simulations
