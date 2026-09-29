@@ -15,13 +15,17 @@ Economics researcher with experience in empirical research, econometric methods,
 
 ## Selected Research Projects
 
-### Macroeconomic Time-Series Analysis and Reproducible Empirical Workflow Using Python
+### Macroeconomic Conditions and Industrial Production
 
-Python-based empirical workflow for retrieving and validating macroeconomic data from FRED, estimating regression models, conducting robust inference and diagnostic tests, and automatically generating research outputs including tables and figures.
+Python-based empirical time-series workflow for retrieving and validating monthly macroeconomic data from FRED, estimating empirical specifications, conducting residual and specification diagnostics, and generating reproducible tables and figures.
 
-### Cross-Country Panel Data Analysis Using Stata
+### GDP and Health Indicators in Nordic Countries
 
-Stata-based panel-data workflow implementing data preparation, fixed-effects and random-effects estimation, model specification tests, robustness analysis, econometric diagnostics, and reproducible output generation.
+Stata-based panel-data econometric workflow implementing data preparation, fixed-effects and random-effects estimation, model specification tests, robustness analysis, econometric diagnostics, and reproducible output generation.
+
+### Determinants of Household Catastrophic Health Expenditure
+
+R-based survey econometric workflow for constructing household-level catastrophic health expenditure measures, preparing and validating survey data, estimating survey-weighted logistic regression models, conducting subgroup and sensitivity analyses, and producing reproducible research outputs.
 
 ### Speculative Credit Diversion, Bank Money Creation, and Macro-Financial Dynamics
 
