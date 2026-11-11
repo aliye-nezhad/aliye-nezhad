@@ -8,7 +8,7 @@ Economics researcher with experience in empirical research, econometric methods,
 - **Stata:** panel-data econometrics, fixed-effects and random-effects models, specification tests, robustness analysis, diagnostic testing, and reproducible empirical workflows
 - **R:** household survey data preparation, data management, survey-weighted analysis, econometric workflows, visualization, and reproducible research outputs
 - **Dynare/MATLAB:** structural DSGE modeling, model calibration, steady-state analysis, stability checks, impulse-response analysis, and macroeconomic simulations
-- **SQL/PostgreSQL and SQLite:** relational database querying and data transformation, filtering, sorting, pattern matching, NULL handling, joins, aggregations, subqueries, common table expressions (CTEs), table creation and modification, relational keys, basic database design, and date/time operations
+- **SQL/PostgreSQL and SQLite:** relational data querying, data transformation, joins, aggregations, subqueries, CTEs, and basic database design
 - **LaTeX:** academic writing, mathematical notation, tables, figures, and research document preparation
 - **Git/GitHub:** version control, reproducible research workflows, repository management, documentation, and code organization
 
