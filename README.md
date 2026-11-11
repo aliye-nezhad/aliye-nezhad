@@ -1,15 +1,16 @@
 # Aliye Nezhad
 
-Economics researcher with experience in empirical research, econometric methods, and quantitative modeling using Python, Stata, R, and Dynare via MATLAB.
+Economics researcher with experience in empirical research, econometric methods, and quantitative modeling using Python, Stata, R, Dynare/MATLAB, and SQL.
 
 ## Technical Skills
 
-- Python: reproducible empirical workflows, macroeconomic data acquisition, data cleaning and validation, regression analysis, statistical diagnostics, and automated research outputs
-- Stata: panel-data econometrics, fixed-effects and random-effects models, specification tests, robustness analysis, diagnostic testing, and reproducible empirical workflows
-- R: household survey data preparation, data management, survey-weighted analysis, econometric workflows, visualization, and reproducible research outputs
-- Dynare/MATLAB: structural DSGE modeling, model calibration, steady-state analysis, stability checks, impulse-response analysis, and macroeconomic simulations
-- LaTeX: academic writing, mathematical notation, tables, figures, and research document preparation
-- Git/GitHub: version control, reproducible research workflows, repository management, documentation, and code organization
+- **Python:** reproducible empirical workflows, macroeconomic data acquisition, data cleaning and validation, regression analysis, statistical diagnostics, and automated research outputs
+- **Stata:** panel-data econometrics, fixed-effects and random-effects models, specification tests, robustness analysis, diagnostic testing, and reproducible empirical workflows
+- **R:** household survey data preparation, data management, survey-weighted analysis, econometric workflows, visualization, and reproducible research outputs
+- **Dynare/MATLAB:** structural DSGE modeling, model calibration, steady-state analysis, stability checks, impulse-response analysis, and macroeconomic simulations
+- **SQL/PostgreSQL and SQLite:** relational database querying and data transformation, filtering, sorting, pattern matching, NULL handling, joins, aggregations, subqueries, common table expressions (CTEs), table creation and modification, relational keys, basic database design, and date/time operations
+- **LaTeX:** academic writing, mathematical notation, tables, figures, and research document preparation
+- **Git/GitHub:** version control, reproducible research workflows, repository management, documentation, and code organization
 
 ## Selected Research Projects
 
