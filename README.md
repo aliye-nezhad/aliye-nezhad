@@ -26,6 +26,10 @@ Stata-based panel-data econometric workflow implementing data preparation, fixed
 
 R-based survey econometric workflow for constructing household-level catastrophic health expenditure measures, preparing and validating survey data, estimating survey-weighted logistic regression models, conducting subgroup and sensitivity analyses, and producing reproducible research outputs.
 
+### Household Borrowing Reports and Durable-Goods Purchases
+
+R-based empirical study linking specific loan-related financial-service records to selected annual durable-goods purchases in the 2014–15 household survey. The workflow implements survey-weighted regressions, matched-sample expenditure-control sensitivity checks, loan-reporting group comparisons, and reproducible validation. Findings are descriptive rather than causal.
+
 ### Speculative Credit Diversion, Bank Money Creation, and Macro-Financial Dynamics
 
 Structural DSGE model developed using Dynare via MATLAB to study how credit allocation between productive and speculative activities affects bank lending, money creation, inflation, and output dynamics. The model incorporates banking, monetary, credit-allocation, and real-sector mechanisms with calibration, sensitivity analysis, and impulse-response simulations.
@@ -35,4 +39,5 @@ Structural DSGE model developed using Dynare via MATLAB to study how credit allo
 - **Macroeconomic Conditions and Industrial Production (Python).** I compare a levels regression with a model of monthly changes to study how U.S. industrial production moves with the federal funds and unemployment rates. [Project](https://github.com/aliye-nezhad/macroeconomic-conditions-industrial-production-Python)
 - **GDP and Health Indicators in Nordic Countries (Stata).** I use a four-country panel from 2000 through 2018 to examine how GDP moves with life expectancy, age dependency, and population. [Project](https://github.com/aliye-nezhad/nordic-gdp-health-panel-Stata)
 - **Household Catastrophic Health Expenditure (R).** I estimate the share of households facing catastrophic health spending in the 2014–15 household survey and examine differences by economic rank and rural or urban residence. [Project](https://github.com/aliye-nezhad/household-catastrophic-health-expenditure-R)
+- **Household Borrowing Reports and Durable-Goods Purchases (R).** I study how recorded housing- and non-housing-loan-related entries co-occur with purchases of furnishings, appliances, and personal transport equipment, using survey-weighted regressions and robustness checks. [Project](https://github.com/aliye-nezhad/Household-Credit-Access-Expenditure-Allocation-R)
 - **Speculation and Bank Money Creation (MATLAB/Dynare).** In my master's thesis, I built a DSGE model calibrated to Iran to study how a rise in speculative returns affects bank credit, money, output, and inflation. [Project](https://github.com/aliye-nezhad/speculation-money-creation-dsge-Dynare)
