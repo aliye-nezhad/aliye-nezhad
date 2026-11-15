@@ -1,6 +1,6 @@
 # Aliye Nezhad
 
-Economics researcher with experience in empirical research, econometric methods, and quantitative modeling using Python, Stata, R, Dynare/MATLAB, and SQL.
+Economics researcher with experience in econometric methods, empirical research, and quantitative modeling using Python, Stata, R, Dynare/MATLAB, and SQL.
 
 ## Technical Skills
 
